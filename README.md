@@ -28,14 +28,12 @@ The project includes:
 6. Built web application for prediction
 
  Model Performance
+- full Data R²-0.95 
 - R² Score on Test Data: 0.38
 - Shows positive relationship between study hours and marks
 
- How to Run Locally
-1. Install requirements:
+  Install requirements:
    pip install -r requirements.txt
-2. Run application:
-   streamlit run app.py
 
  Project Structure
 - notebook.ipynb → Model training & analysis
